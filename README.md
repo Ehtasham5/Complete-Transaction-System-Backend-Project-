@@ -175,6 +175,4 @@ This endpoint requires a user with `systemUser: true` and an account linked to t
 - Gmail OAuth2 credentials must be valid for the configured sender account.
 - Add automated tests before using this backend in production.
 
-## License
 
-This project is currently distributed without a declared open-source license.
